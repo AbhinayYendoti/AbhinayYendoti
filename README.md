@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhinayYendoti
-- 👀 I’m interested in ... Java Full Stack
-- 🌱 I’m currently learning ... Nextjs
+- 👀 I’m interested in ... Java Development
+- 🌱 I’m currently learning ... Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... l
 - 😄 Pronouns: ...
